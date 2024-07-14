@@ -56,8 +56,8 @@ All projects under the OnlyWinz organization are licensed under a custom license
 
 ## Community
 Join our community to stay updated and get involved:
-- [Discord](https://discord.gg/OnlyWinz)
-- [Twitter](https://twitter.com/OnlyWinz)
-- [Blog](https://blog.onlywinz.com)
+- Discord
+- Twitter
+- Blog
 
 We look forward to your contributions and participation!
