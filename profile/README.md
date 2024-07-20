@@ -19,7 +19,7 @@ OnlyWinz aims to revolutionize sports betting by leveraging cutting-edge technol
   - Core service for fetching real-time odds, identifying arbitrage opportunities, and providing bet calculations.
 
 ### Frontend
-- **[OnlyWinz Frontend](https://guthub.com/OnlyWinz/onlywinz-frontend)**
+- **[OnlyWinz Frontend](https://github.com/OnlyWinz/onlywinz-frontend)**
   - The React application that provides a user-friendly interface for interacting with the OnlyWinz system.
 
 ### Microservices
